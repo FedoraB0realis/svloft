@@ -1,0 +1,2 @@
+- Add the mention of 15% gratuity to the reservation page.
+  Currently at the menu page?
