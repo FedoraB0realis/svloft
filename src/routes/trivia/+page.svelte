@@ -3,4 +3,4 @@
 </script>
 
 <NavBar />
-<h1>Games</h1>
+<h1>Trivia</h1>
