@@ -1,2 +1,3 @@
 - Add the mention of 15% gratuity to the reservation page.
   Currently at the menu page?
+- Remove gift card area and add it as a card

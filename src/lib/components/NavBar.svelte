@@ -5,6 +5,7 @@
     NavLi,
     NavUl,
     NavHamburger,
+    DarkMode,
   } from "flowbite-svelte";
 </script>
 
@@ -21,8 +22,9 @@
   </NavBrand>
   <NavHamburger />
   <NavUl>
+    <DarkMode/>
     <NavLi href="/about">About</NavLi>
-    <NavLi href="/menu">Pricing</NavLi>
+    <NavLi href="/menu">Menu</NavLi>
     <NavLi href="/games">Games</NavLi>
     <NavLi href="/reservations">Reservations</NavLi>
     <NavLi href="/events">Events</NavLi>
