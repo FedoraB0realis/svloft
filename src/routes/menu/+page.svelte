@@ -4,7 +4,7 @@
 
 <NavBar />
 <div
-  style="background-image: url(/src/lib/assets/LoftImage1.jpg)"
+  style="background-image: url(/src/lib/assets/LoftImage3.jpg)"
   class="w-full h-screen"
 >
   <main class="flex flex-col flex-1 p-10 text-black">
