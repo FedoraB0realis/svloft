@@ -13,7 +13,7 @@
   <Navbar class="px-2 sm:px-4 py-2.5 fixed w-full z-20 top-0 start-0 border-b">
     <NavBrand href="/">
       <img
-        src="src/lib/assets/logo-text.png"
+        src="src/static/images/logo-text.png"
         class="me-3 h-6 sm:h-9"
         alt="Loft Logo"
       />
