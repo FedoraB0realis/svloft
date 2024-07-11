@@ -12,10 +12,7 @@
 <!--   </Button> -->
 <!-- </Card> -->
 <NavBar />
-<div
-  style="background-image: url(/src/lib/assets/LoftImage1.jpg)"
-  class="w-full h-screen"
->
+<div style="background-image: images/LoftImage1.jpg" class="w-full h-screen">
   <main class="flex flex-col flex-1 text-black pt-10">
     <!-- this was originally gap-10 py-8 sm:py-14 -->
     <section id="introPage" class="p-24">
