@@ -2,15 +2,16 @@
   import NavBar from "../components/NavBar.svelte";
 </script>
 
-<!-- <NavBar /> -->
-<!-- <h1>Welcome</h1> -->
-<!-- <Card href="/cards"> -->
-<!--   <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">For first time visitors</h5> -->
-<!--   <p class="font-normal text-gray-700 dark:text-gray-400 leading-tight mb-4">In order to access our library of Board and Video games, an individual 9$ Stay & Play fee is applied</p> -->
-<!--   <Button class="w-fit"> -->
-<!--     For more important info <ArrowRightOutline class="w-6 h-6 ms-2 text-white" /> -->
-<!--   </Button> -->
-<!-- </Card> -->
+<head>
+  <link rel="preload" href="images/LoftImage1.jpg" as="image" />
+  <link rel="preload" href="images/LoftImage2.jpg" as="image" />
+  <link rel="preload" href="images/LoftImage3.jpg" as="image" />
+  <link rel="preload" href="images/LoftImage4.jpg" as="image" />
+  <link rel="preload" href="images/LoftImage5.jpg" as="image" />
+  <link rel="preload" href="images/LoftImage6.jpg" as="image" />
+  <link rel="preload" href="images/LoftImage7.jpg" as="image" />
+  <link rel="preload" href="images/LoftImage8.jpg" as="image" />
+</head>
 <NavBar />
 <div
   style="background-image: url(images/LoftImage1.jpg)"
